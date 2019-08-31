@@ -1,6 +1,6 @@
 # Desafío 1: Periodos perdidos
 
-El presente proyecto consiste en una solución a la problemática denominada "Desafío Uno" de Previred. La solución aquí presente se conecta con una API denominada Generador_Datos_Desafio_Uno, la cual propociona un rango de fechas y un listado de fechas que se hallan entre ellas. Lo que hace esta aplicación es generar las fechas faltantes a partir de la infromación consumida desde la API.
+El presente proyecto consiste en una solución a la problemática denominada "Desafío Uno" de Previred. La solución aquí presente se conecta con una API denominada Generador_Datos_Desafio_Uno, la cual propociona un rango de fechas y un listado de fechas que se hallan entre ellas. Lo que hace esta aplicación es generar las fechas faltantes a partir de la información consumida desde la API.
 
 ### Requerimientos de Sistema:
 
